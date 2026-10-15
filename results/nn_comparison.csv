@@ -1,0 +1,4 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: heavy_nn_comparison.csv>index,model,accuracy,roc_auc,weighted_signal,weighted_background,S_over_B,S_over_sqrtB
+0,NN without reco_zv_mass,0.7954,0.8759,2196.8488,73848.7259,0.029748,8.084044
+1,NN with reco_zv_mass,0.945,0.983,2856.7588,149160.1331,0.0192,7.3969
