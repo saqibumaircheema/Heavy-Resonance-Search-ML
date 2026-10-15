@@ -1,0 +1,6 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: heavy_selection_summary.csv>index,selection,weighted_signal,weighted_background,S_over_B,S_over_sqrtB
+0,Before cuts,4200.161,5402673.571,0.000777,1.807014
+1,After cuts,2901.361,511349.752,0.005674,4.057352
+2,After cuts + NN without mass,2196.8488,73848.7259,0.029748,8.084044
+3,After cuts + NN with mass,2856.7588,149160.1331,0.0192,7.3969
