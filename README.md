@@ -1,5 +1,7 @@
 # Heavy-Resonance Search with Cut-Based Selection and Neural Networks
 
+**Notebook integrity notice (31 October 2026):** The public `.ipynb` was originally truncated. It has been structurally repaired to open in GitHub/Jupyter, but only the surviving cells through the fitting section are present. The neural-network implementation is **not included** in this recovered notebook. Reported NN results below are retained from saved project results, not reproduced by this notebook. Full restoration requires the original coursework notebook.
+
 **Saqib Umair**  
 MSc Particle and Nuclear Physics, University of Edinburgh
 
